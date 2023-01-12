@@ -1,5 +1,8 @@
 # Real World Testing with Cypress - Courses
 
+- Start Date: 12 January 2023
+- Completed Date: in progress
+
 This repo was cloned from: https://github.com/cypress-io/cypress-realworld-testing-course-app. This files here relate to the Testing your first application course on [learn.cypress.io](https://learn.cypress.io/). However, I have also documented my progress for the other courses on the website.
 
 ## Course 1: Testing Your First Application (complete) - [course link](https://learn.cypress.io/testing-your-first-application)
