@@ -33,20 +33,20 @@ Theoretical course but I am already familiar with the content, quizzes complete.
 - Who should be responsible for testing?
 - The Testing Pyramid
 
-## Course 3: Cypress Fundamentals (in progress) - [course link](https://learn.cypress.io/cypress-fundamentals)
+## Course 3: Cypress Fundamentals (completed-ish) - [course link](https://learn.cypress.io/cypress-fundamentals)
 
-Theoretical course, which expands a little bit on course 1 without specific instructions to implement.
+Theoretical course, which expands a little bit on course 1 without specific instructions to implement. Quizzes are completed but there are additional (practice) links given (https://github.com/cypress-io/cypress-realworld-testing-blog), which I can clone separately and practice. I have writtern an asterisk below to revisit.
 
 - How to use Aliases
 - How to chain methods and assertions together
 - How Cypress works 'under the hood'
-- How to Write a Test (Arrange, Act, Assert) - 
+- How to Write a Test (Arrange, Act, Assert)
 - Cypress Runs Tests in the Browser
 - Command Chaining
 - The Asynchronous Nature of Cypress
 - Waiting and Retry-ability
-- How to Debug Failing Tests
-- Cypress is just JavaScript
+- How to Debug Failing Tests*
+- Cypress is just JavaScript*
 
 ## Course 4: Cypress Fundamentals (TO DO) - [course link](https://learn.cypress.io/advanced-cypress-concepts)
 
