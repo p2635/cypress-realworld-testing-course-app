@@ -1,12 +1,8 @@
-# Real World Testing with Cypress - Course App
+# Real World Testing with Cypress - Courses
 
-Cloned from repo: https://github.com/cypress-io/cypress-realworld-testing-course-app
+This repo was cloned from: https://github.com/cypress-io/cypress-realworld-testing-course-app. This files here relate to the Testing your first application course on [learn.cypress.io](https://learn.cypress.io/). However, I have also documented my progress for the other courses on the website.
 
-This application is for the [Testing your first application course](https://learn.cypress.io/testing-your-first-application) on [learn.cypress.io](https://learn.cypress.io/)
-
-You can find the instructions for this course [here](https://learn.cypress.io/testing-your-first-application/course-app).
-
-## Course 1: Testing Your First Application (complete)
+## Course 1: Testing Your First Application (complete) - [course link](https://learn.cypress.io/testing-your-first-application)
 
 - How to install Cypress
 - How to write Cypress E2E tests
@@ -17,12 +13,26 @@ You can find the instructions for this course [here](https://learn.cypress.io/te
 - How to test multiple pages
 - How to test user journeys
 
-## Course 2: Testing Foundations (in progress)
+## Course 2: Testing Foundations (complete) - [course link](https://learn.cypress.io/testing-foundations)
 
-Course page: https://learn.cypress.io/testing-foundations/
+This was a theoretical course but I am already familiar with the content, quizzes complete.
 
 - Testing is a Mindset
 - Identifying What to Test
 - Manual vs Automated Testing
 - Who should be responsible for testing?
 - The Testing Pyramid
+
+## Course 3: Cypress Fundamentals (in progress) - [course link](https://learn.cypress.io/cypress-fundamentals)
+
+- How to use Aliases
+- How to chain methods and assertions together
+- How Cypress works 'under the hood'
+- How to Write a Test
+- Cypress Runs Tests in the Browser
+- Command Chaining
+- The Asynchronous Nature of Cypress
+- Waiting and Retry-ability
+- How to Debug Failing Tests
+- Cypress is just JavaScript
+
