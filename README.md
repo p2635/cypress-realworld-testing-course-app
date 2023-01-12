@@ -7,6 +7,8 @@ This repo was cloned from: https://github.com/cypress-io/cypress-realworld-testi
 
 ## Course 1: Testing Your First Application (complete) - [course link](https://learn.cypress.io/testing-your-first-application)
 
+Introductory hands-on course with practical exercises.
+
 - How to install Cypress
 - How to write Cypress E2E tests
 - How to create custom Cypress commands
