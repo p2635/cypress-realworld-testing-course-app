@@ -39,3 +39,16 @@ This was a theoretical course but I am already familiar with the content, quizze
 - How to Debug Failing Tests
 - Cypress is just JavaScript
 
+## Course 4: Cypress Fundamentals (TO DO) - [course link](https://learn.cypress.io/advanced-cypress-concepts)
+
+- How to debug test failures
+- Database initialization and seeding
+- How to test network requests
+- Database Initialization and Seeding
+- Running in Continuous Integration (CI)
+- Intercepting HTTP Requests
+- API and Integration Tests
+- Building Custom Commands
+- Viewport and Browser Testing
+- Cypress Methods You Need to Know
+- Using Data for Dynamic Tests
