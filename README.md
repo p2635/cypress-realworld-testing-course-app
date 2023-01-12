@@ -18,7 +18,7 @@ This repo was cloned from: https://github.com/cypress-io/cypress-realworld-testi
 
 ## Course 2: Testing Foundations (complete) - [course link](https://learn.cypress.io/testing-foundations)
 
-This was a theoretical course but I am already familiar with the content, quizzes complete.
+Theoretical course but I am already familiar with the content, quizzes complete.
 
 - Testing is a Mindset
 - Identifying What to Test
@@ -27,6 +27,8 @@ This was a theoretical course but I am already familiar with the content, quizze
 - The Testing Pyramid
 
 ## Course 3: Cypress Fundamentals (in progress) - [course link](https://learn.cypress.io/cypress-fundamentals)
+
+Theoretical course, which expands a little bit on course 1 without specific instructions to implement.
 
 - How to use Aliases
 - How to chain methods and assertions together
