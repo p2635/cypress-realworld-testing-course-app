@@ -15,7 +15,7 @@ describe('home page', () => {
     })
   })
 
-  context.only("Courses section", () => {
+  context("Courses section", () => {
     it("Accessing the Course: Testing Your First Next.js Application", () => {
       cy.getByData("course-0").find("a").eq(3).click()
       cy.location("pathname").should("eq", "/testing-your-first-application")
