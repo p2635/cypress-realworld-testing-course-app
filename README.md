@@ -47,7 +47,7 @@ Theoretical course, which expands a little bit on course 1 without specific inst
 
 ## Course 4: Cypress Fundamentals (TO DO) - [course link](https://learn.cypress.io/advanced-cypress-concepts)
 
-I'm going to leave this for now and focus on practical courses, I will revisit later.
+I'm going to leave this for now and focus on practical 'learn by doing' courses, I will revisit later and potentially add links to show where I have demonstrated profiency in these areas.
 
 - How to debug test failures
 - Database initialization and seeding
