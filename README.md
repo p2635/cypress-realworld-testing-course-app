@@ -28,7 +28,7 @@ This was a theoretical course but I am already familiar with the content, quizze
 - How to use Aliases
 - How to chain methods and assertions together
 - How Cypress works 'under the hood'
-- How to Write a Test
+- How to Write a Test (Arrange, Act, Assert)
 - Cypress Runs Tests in the Browser
 - Command Chaining
 - The Asynchronous Nature of Cypress
